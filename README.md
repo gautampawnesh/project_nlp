@@ -1,3 +1,3 @@
 ## Nature language processing challenges
 
-1. Tweet Sentiment Extraction
+1. Tweet Sentiment Analysis
